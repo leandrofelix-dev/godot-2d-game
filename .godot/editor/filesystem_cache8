@@ -1,0 +1,28 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1740348803
+enemy.gd::GDScript::-1::1740347263::0::1::::<>RigidBody2D<>::
+enemy.tscn::PackedScene::3892361331978534465::1739980029::0::1::::<><>::res://enemy.gd<>uid://cmcsbhtrr3cky::::res://art/gfx/16bit_bomb1.png<>uid://dg2x1bpjywysm::::res://art/gfx/16_bit_bomb2.png<>uid://cbmpghxwxn570::::res://art/gfx/16_bit_bomb3.png
+hud2.gd::GDScript::-1::1740341677::0::1::::<>CanvasLayer<>::
+icon.svg::CompressedTexture2D::7742367624486520084::1739980029::1740338494::1::::<><>::
+main.gd::GDScript::-1::1740348352::0::1::::<>Node<>::
+main.tscn::PackedScene::7107725118571693720::1740348811::0::1::::<><>::res://main.gd<>uid://bujysl0i1ktjq::::res://player.tscn<>uid://bvpqvftbetyqj::::res://enemy.tscn<>uid://51s2tp8rrd6a::::res://art/gfx/Overworld.png<>res://hud2.gd<>uid://dm3latgn7kgnj::::res://fonts/Xolonium-Regular.ttf
+player.gd::GDScript::-1::1740348803::0::1::::<>Area2D<>::
+player.tscn::PackedScene::3810266925132575422::1740347215::0::1::::<><>::res://player.gd<>uid://sqd1nvsel58c::::res://art/character/Character Blue.png
+::res://art/::1740338494
+gameover.wav::AudioStreamWAV::8409480074424452160::1739980029::1740338494::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6738326855294061883::1739980029::1740338494::1::::<><>::
+::res://art/character/::1740338494
+Character Blue.png::CompressedTexture2D::1296658527237461748::1739980029::1740338494::1::::<><>::
+::res://art/gfx/::1740338494
+16bit_bomb1.png::CompressedTexture2D::5620331336025369540::1739980029::1740338494::1::::<><>::
+16_bit_bomb2.png::CompressedTexture2D::7637576309879567712::1739980029::1740338494::1::::<><>::
+16_bit_bomb3.png::CompressedTexture2D::4868724617952692521::1739980029::1740338494::1::::<><>::
+font.png::CompressedTexture2D::529349218206113702::1739980029::1740338494::1::::<><>::
+Monsters (1).png::CompressedTexture2D::5888602032059318604::1739980029::1740338494::1::::<><>::
+Overworld.png::CompressedTexture2D::2160481275690232610::1739980029::1740338494::1::::<><>::
+::res://art/shene/::1740338494
+Map Tile.png::CompressedTexture2D::3844310664558784327::1739980029::1740338494::1::::<><>::
+::res://fonts/::1740338494
+FONTLOG.txt::TextFile::-1::1739980029::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1739980029::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::8059999646616099531::1739980029::1740338494::1::::<><>::
